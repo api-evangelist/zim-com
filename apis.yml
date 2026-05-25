@@ -1,0 +1,84 @@
+aid: zim-com
+name: ZIM Integrated Shipping Services
+description: >-
+  ZIM Integrated Shipping Services Ltd. (NYSE: ZIM) is a global container
+  liner shipping company founded in 1945 and headquartered in Haifa, Israel.
+  ZIM operates in more than 90 countries, serving over 30,000 customers
+  across more than 300 ports worldwide with a differentiated global-niche
+  strategy focused on agile fleet management and select trade lanes. The
+  company is publicly traded on the New York Stock Exchange and, as of
+  2026, is the subject of a pending acquisition by Hapag-Lloyd at
+  approximately $35.00 per share. ZIM's digital surface includes the myZIM
+  customer area, ZIMonitor cargo visibility, an electronic Bill of Lading
+  (eB/L) service, a Draft B/L tool, EDI integrations for booking and
+  shipping instructions, a mobile application, and a developer API portal
+  at api.zim.com hosted on Microsoft Azure API Management. Access to the
+  ZIM API requires registering through ZIM API Support and obtaining a
+  security token; rate limits are set per organization at registration.
+  No public OpenAPI specification, SDKs, or GitHub organization are
+  published, so ZIM is profiled here as a Tier-3 catalog entry pending
+  spec disclosure or partner access.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Shipping
+  - Container Shipping
+  - Ocean Freight
+  - Logistics
+  - Supply Chain
+  - Maritime
+  - Container Tracking
+  - EDI
+  - Electronic Bill of Lading
+  - Cargo Visibility
+  - Israel
+  - Transportation
+url: https://raw.githubusercontent.com/api-evangelist/zim-com/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.zim.com
+  - type: DeveloperPortal
+    url: https://api.zim.com
+  - type: APISupport
+    url: https://www.zim.com/contact-us/zim-api-support
+  - type: APITerms
+    url: https://www.zim.com/help/api-terms-and-conditions
+  - type: Tools
+    url: https://www.zim.com/tools
+  - type: TrackShipment
+    url: https://www.zim.com/tools/track-a-shipment
+  - type: EDIIntegrations
+    url: https://www.zim.com/tools/ecommerce-partners
+  - type: MyZIM
+    url: https://www.zim.com/tools/myzim-personal-area
+  - type: eBL
+    url: https://www.zim.com/tools/ebl
+  - type: ZIMonitor
+    url: https://www.zim.com/tools/zimonitor
+  - type: MobileApp
+    url: https://www.zim.com/tools/zim-mobile-app
+  - type: BookingRequirements
+    url: https://www.zim.com/customer-updates/booking-request-requirements
+  - type: InvestorRelations
+    url: https://investors.zim.com
+  - type: PressReleases
+    url: https://www.zim.com/news
+  - type: Careers
+    url: https://www.zim.com/careers
+  - type: Contact
+    url: https://www.zim.com/contact-us
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/zim
+  - type: Twitter
+    url: https://twitter.com/ZIM_Update
+  - type: YouTube
+    url: https://www.youtube.com/user/ZIMIntegrated
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

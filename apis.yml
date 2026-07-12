@@ -41,6 +41,8 @@ modified: '2026-05-25'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/zim-com-domain-security.yml
   - type: Website
     url: https://www.zim.com
   - type: DeveloperPortal

@@ -1,4 +1,4 @@
-# zim-com
+# ZIM Integrated Shipping Services
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,79 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ZIM Integrated Shipping Services (NYSE: ZIM) — global container liner shipping; developer API portal at api.zim.com (token-gated, no public OpenAPI).
+ZIM Integrated Shipping Services Ltd. (NYSE: ZIM) is a global container liner shipping company founded in 1945 and headquartered in Haifa, Israel. ZIM operates in more than 90 countries, serving over 30,000 customers across more than 300 ports worldwide with a differentiated global-niche strategy focused on agile fleet management and select trade lanes. The company is publicly traded on the New York Stock Exchange and, as of 2026, is the subject of a pending acquisition by Hapag-Lloyd at approximately $35.00 per share. ZIM's digital surface includes the myZIM customer area, ZIMonitor cargo visibility, an electronic Bill of Lading (eB/L) service, a Draft B/L tool, EDI integrations for booking and shipping instructions, a mobile application, and a developer API portal at api.zim.com hosted on Microsoft Azure API Management. Access to the ZIM API requires registering through ZIM API Support and obtaining a security token; rate limits are set per organization at registration. No public OpenAPI specification, SDKs, or GitHub organization are published, so ZIM is profiled here as a Tier-3 catalog entry pending spec disclosure or partner access.
+
+**Areas:** Shipping · Container Shipping · Ocean Freight · Logistics · Supply Chain · Maritime · Container Tracking · EDI · Electronic Bill of Lading · Cargo Visibility · Israel · Transportation
+
+## ZIM Integrated Shipping Services on APIs.io
+
+Everything profiled for ZIM Integrated Shipping Services is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/zim-com/](https://apis.io/providers/zim-com/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Zim Com Domain Security](https://apis.io/security/zim-com/zim-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.zim.com)
+
+## API Evangelist rating
+
+**Kin Score 5.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/zim-com/](https://apis.io/providers/zim-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ZIM Integrated Shipping Services: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/zim-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
